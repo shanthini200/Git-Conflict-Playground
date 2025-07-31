@@ -1,4 +1,4 @@
-# 🔧 Git Conflict Playground
+#  Git Conflict Playground
 
 This repository demonstrates how to **intentionally create and resolve a Git merge conflict**, simulating a real-world scenario that developers often face while collaborating on shared codebases.
 
